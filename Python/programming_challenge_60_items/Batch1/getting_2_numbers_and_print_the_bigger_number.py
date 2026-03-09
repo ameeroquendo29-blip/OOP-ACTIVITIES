@@ -1,0 +1,2 @@
+#input
+#compare and print
